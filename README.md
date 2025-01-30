@@ -3,19 +3,15 @@
 
 - 🔭 I’m currently exploring [machine learning with TenrosFlow.](https://github.com/BeckBay/tensorflow.git)
 
-- 🌱 I’m currently learning **Python, C++,**
+- 🌱 I’m currently learning **Python, RAG, Open AI**
 
-- 👯 I’m very down to collaborate on [a few of my (or your) project ideas.](https://github.com/BeckBay/panedora.git)
+- 👯 I’m very down to collaborate
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 Some of my projects are available at beckbaimour.com
 
-- 📝 I regularly write articles on [Coming soon](Coming soon)
-
-- 💬 Ask me about **React, React-Native, JS, whatever you want.**
+- 🚘 I'm currently finalizing Parkpool for relaunch
 
 - 📫 How to reach me **zandak@gmail.com**
-
-- ⚡ Fun fact **I'll think of one.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
