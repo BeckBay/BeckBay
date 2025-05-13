@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently exploring [machine learning with TenrosFlow.](https://github.com/BeckBay/tensorflow.git)
 
-- 🌱 I’m currently learning **Python, RAG, Open AI**
+- 🌱 I’m currently learning **Open AI**
 
 - 👯 I’m very down to collaborate
 
 - 👨‍💻 Some of my projects are available at beckbaimour.com
 
-- 🚘 I'm currently finalizing Parkpool for relaunch
+- 🚘 I'm currently finalizing a HUGE private project 
 
 - 📫 How to reach me **zandak@gmail.com**
 
